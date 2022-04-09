@@ -118,3 +118,7 @@
 - perform backup and restore operations by using Azure Backup 
 - perform site-to-site recovery by using Azure Site Recovery
 - configure and review backup reports
+
+## Reference Material
+- [John Savil's AZ-104 Azure Administrator Study List](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
+- [Microsoft Learn Exam AZ-104: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
