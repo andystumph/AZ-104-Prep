@@ -119,6 +119,7 @@
 - perform site-to-site recovery by using Azure Site Recovery
 - configure and review backup reports
 
-## Reference Material
+# Reference Material
 - [John Savil's AZ-104 Azure Administrator Study List](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
 - [Microsoft Learn Exam AZ-104: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+- [Pluralsight Microsoft Azure Administrator Associate](https://app.pluralsight.com/explore/certifications/topics/azure?trackId=5ca21e4e-d0e4-4105-b8b2-3e01e6398bfc)
